@@ -21,8 +21,8 @@ The primary objective of this project is to enhance the security of medical data
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone https://github.com/yourusername/ecg-blockchain-security.git
-    cd ecg-blockchain-security
+    git clone https://github.com/Mmohsn/ECG-Arrythmia-Detection-Using-Deep-Learning-and-Blockchain.git
+    cd ECG-Arrythmia-Detection-Using-Deep-Learning-and-Blockchain
     ```
 
 2. Install the required dependencies:
