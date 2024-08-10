@@ -25,13 +25,7 @@ The primary objective of this project is to enhance the security of medical data
     cd ECG-Arrythmia-Detection-Using-Deep-Learning-and-Blockchain
     ```
 
-2. Install the required dependencies:
-
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. Run the project:
+2. Run the project:
 
     ```bash
     python run.py
