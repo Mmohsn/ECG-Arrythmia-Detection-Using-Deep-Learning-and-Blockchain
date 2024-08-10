@@ -1,10 +1,5 @@
 # ECG-Arrythmia-Detection-Using-Deep-Learning-and-Blockchain
-Here’s a draft README for your GitHub repository:
-
 ---
-
-# Securing Medical Data with Blockchain and ECG Prediction
-
 This repository contains the code for a project aimed at securing medical data, specifically electrocardiogram (ECG) data, while making predictions using blockchain technology. The MIT-BIH ECG dataset is utilized in this project to demonstrate how blockchain can be leveraged to ensure data integrity and security while performing machine learning predictions.
 
 ## Project Overview
